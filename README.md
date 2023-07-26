@@ -52,3 +52,4 @@ To run the `script.ts` file, run the following command:
 ```sh
 npm run dev
 ```
+# bug-prisma-typescript-extensions-filter-operations
